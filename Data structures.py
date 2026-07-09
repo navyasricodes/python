@@ -40,3 +40,16 @@ f=complex(d,e)
 print(f)
 print(type(f))
 print(float(e))
+x=2
+y=4
+x=x+2
+print(x)
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**y)
+a,b=2,3
+print(a+b)
+print(a<b)
+print(a>4 and b>2)
