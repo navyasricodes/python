@@ -39,3 +39,4 @@ e=4
 f=complex(d,e)
 print(f)
 print(type(f))
+print(float(e))
