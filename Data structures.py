@@ -53,3 +53,7 @@ a,b=2,3
 print(a+b)
 print(a<b)
 print(a>4 and b>2)
+print(7<<2)
+print(125|256)
+print(652^125)
+print((288<<2)>>(26//6))
