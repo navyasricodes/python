@@ -4,5 +4,5 @@ z = x + y
 print(z)
 
 # Type-2
-nos = [10,20,30,40]
-print("sum=", sum(nos))
+nums = [10,20,30,40]
+print("sum=", sum(nums))
