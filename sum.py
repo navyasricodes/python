@@ -6,3 +6,7 @@ print(z)
 # Type-2
 nums = [10,20,30,40]
 print("sum=", sum(nums))
+
+# eval
+result = eval(input("Enter expr:"))
+print(result)
