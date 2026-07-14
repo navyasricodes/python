@@ -9,4 +9,3 @@ from math import sqrt,pow
 print(pow(2,20))
 from operator import add
 print(add(2,60))
-print(add(2,pi))
